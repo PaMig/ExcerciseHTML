@@ -1,0 +1,56 @@
+.first-container{
+display: flex;
+border:10px;
+background-color: rgb(161, 160, 160);
+margin:4px;
+padding:20px;
+border-radius: 10px;;
+}
+.first{
+    padding:20px;
+}
+.second-container{
+    display: flex;
+}
+.images{
+    height:200px;
+    width: 300px;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    display:block;
+    margin: auto;
+    padding: auto;
+}
+button{
+    color:white;
+    background-color: rgb(8, 95, 188);
+    border-radius: 5px;
+    border-color: rgb(8, 95, 188);
+    text-align: center;
+    height:35px;
+}
+table{
+    margin: 20px;
+    align-items:start;
+}
+td{
+    padding:10px;
+}
+.left{
+    left: 0px;
+}
+.mainimg{
+    margin:30px;
+}
+.table1{
+    width: 5px;
+    height: 5px;
+}
+.d-flex{
+    display: flex;
+}
+p{
+    text-align: justify;
+}
